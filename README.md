@@ -5,8 +5,8 @@ This program simulates a predator-prey system using ordinary differential equati
 
 to run,
 
-clone the codebase
-navigate to the directory in which the repository was cloned
-compile the code using "cc main.c -lm -lX11"
-run the code using "./a.out"
-navigate the scene using the arrow keys
+- clone the codebase
+- navigate to the directory in which the repository was cloned
+- compile the code using "cc main.c -lm -lX11"
+- run the code using "./a.out"
+- navigate the scene using the arrow keys
